@@ -1,0 +1,53 @@
+{
+  "bookings": {
+    "13472294": {
+      "id": "13472294",
+      "type": "cottage",
+      "date": "20.06.2025",
+      "guests": 8,
+      "user_id": 6139841283,
+      "user_name": "ZEF",
+      "phone": "79124481067",
+      "status": "rejected",
+      "created_at": "2025-06-19T18:58:54.722955"
+    },
+    "63661297": {
+      "id": "63661297",
+      "type": "cottage",
+      "date": "20.06.2025",
+      "guests": 9,
+      "user_id": 1107949828,
+      "user_name": "DaH9I633",
+      "phone": "79827905776",
+      "status": "rejected",
+      "created_at": "2025-06-19T19:09:23.661311"
+    },
+    "27820559": {
+      "id": "27820559",
+      "type": "table",
+      "date": "20.06.2025",
+      "guests": 5,
+      "user_id": 1107949828,
+      "user_name": "DaH9I633",
+      "phone": "79827905776",
+      "status": "rejected",
+      "created_at": "2025-06-19T19:15:27.820574"
+    },
+    "30926982": {
+      "id": "30926982",
+      "type": "cottage",
+      "date": "24.06.2025",
+      "guests": 14,
+      "user_id": 6139841283,
+      "user_name": "ZEF",
+      "phone": "+79124481067",
+      "status": "rejected",
+      "created_at": "2025-06-19T23:48:50.926997"
+    }
+  },
+  "tables": {
+    "available": 20,
+    "total": 20
+  },
+  "reviews": {}
+}

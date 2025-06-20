@@ -1,0 +1,176 @@
+2025-06-19 18:11:25,171 - __main__ - ERROR - Ошибка инициализации: Токен бота не найден в переменных окружения
+2025-06-19 18:12:10,979 - __main__ - ERROR - Ошибка инициализации: Токен бота не найден в переменных окружения
+2025-06-19 18:14:22,479 - __main__ - ERROR - Ошибка инициализации: Токен бота не найден в переменных окружения
+2025-06-19 18:14:50,943 - __main__ - ERROR - Ошибка инициализации: Токен бота не найден в переменных окружения
+2025-06-19 18:23:33,437 - __main__ - WARNING - Файл данных не найден или поврежден, создается новый
+2025-06-19 18:23:33,636 - __main__ - INFO - Starting bot...
+2025-06-19 18:23:33,636 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 18:23:33,829 - aiogram.dispatcher - INFO - Run polling for bot @TestClubOK_bot id=7201271134 - '2TestBotClubOK'
+2025-06-19 18:24:00,724 - __main__ - ERROR - Ошибка в cmd_start: 1 validation error for ReplyKeyboardMarkup
+keyboard
+  Field required [type=missing, input_value={'resize_keyboard': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-19 18:24:00,927 - aiogram.event - INFO - Update id=38993137 is handled. Duration 202 ms by bot id=7201271134
+2025-06-19 18:24:05,776 - __main__ - ERROR - Ошибка в cmd_start: 1 validation error for ReplyKeyboardMarkup
+keyboard
+  Field required [type=missing, input_value={'resize_keyboard': True}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-06-19 18:24:05,867 - aiogram.event - INFO - Update id=38993138 is handled. Duration 91 ms by bot id=7201271134
+2025-06-19 18:24:21,887 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-19 18:24:22,143 - aiogram.dispatcher - INFO - Polling stopped for bot @TestClubOK_bot id=7201271134 - '2TestBotClubOK'
+2025-06-19 18:35:16,101 - __main__ - WARNING - Файл данных не найден или поврежден, создается новый
+2025-06-19 18:35:47,440 - __main__ - ERROR - Токен бота не найден. Проверьте файл .env или переменные окружения.
+2025-06-19 18:38:05,031 - __main__ - WARNING - Файл данных не найден или поврежден, создается новый
+2025-06-19 18:38:33,404 - __main__ - WARNING - Файл данных не найден или поврежден, создается новый
+2025-06-19 18:39:10,845 - __main__ - WARNING - Файл данных не найден или поврежден, создается новый
+2025-06-19 18:40:45,335 - __main__ - WARNING - Файл данных не найден или поврежден, создается новый
+2025-06-19 18:41:27,659 - __main__ - WARNING - Файл данных не найден или поврежден, создается новый
+2025-06-19 18:42:13,131 - __main__ - ERROR - Ошибка чтения JSON, создаем новый файл данных
+2025-06-19 18:42:24,247 - __main__ - WARNING - Файл данных не найден, создается новый
+2025-06-19 18:55:57,474 - __main__ - WARNING - Файл данных не найден, создается новый
+2025-06-19 18:58:11,683 - __main__ - INFO - Starting bot...
+2025-06-19 18:58:11,684 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 18:58:11,871 - aiogram.dispatcher - INFO - Run polling for bot @TestClubOK_bot id=7201271134 - '2TestBotClubOK'
+2025-06-19 18:58:17,273 - aiogram.event - INFO - Update id=38993139 is handled. Duration 230 ms by bot id=7201271134
+2025-06-19 18:58:21,595 - aiogram.event - INFO - Update id=38993140 is handled. Duration 99 ms by bot id=7201271134
+2025-06-19 18:58:33,655 - aiogram.event - INFO - Update id=38993141 is handled. Duration 85 ms by bot id=7201271134
+2025-06-19 18:58:46,116 - aiogram.event - INFO - Update id=38993142 is handled. Duration 164 ms by bot id=7201271134
+2025-06-19 18:58:50,720 - aiogram.event - INFO - Update id=38993143 is handled. Duration 137 ms by bot id=7201271134
+2025-06-19 18:58:54,896 - aiogram.event - INFO - Update id=38993144 is handled. Duration 173 ms by bot id=7201271134
+2025-06-19 18:59:11,152 - aiogram.event - INFO - Update id=38993145 is handled. Duration 254 ms by bot id=7201271134
+2025-06-19 18:59:24,742 - aiogram.event - INFO - Update id=38993146 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:00:07,427 - aiogram.event - INFO - Update id=38993147 is handled. Duration 117 ms by bot id=7201271134
+2025-06-19 19:00:14,677 - aiogram.event - INFO - Update id=38993148 is handled. Duration 89 ms by bot id=7201271134
+2025-06-19 19:00:18,073 - aiogram.event - INFO - Update id=38993149 is handled. Duration 188 ms by bot id=7201271134
+2025-06-19 19:00:20,821 - aiogram.event - INFO - Update id=38993150 is handled. Duration 114 ms by bot id=7201271134
+2025-06-19 19:00:22,607 - aiogram.event - INFO - Update id=38993151 is handled. Duration 263 ms by bot id=7201271134
+2025-06-19 19:00:31,937 - aiogram.event - INFO - Update id=38993152 is handled. Duration 186 ms by bot id=7201271134
+2025-06-19 19:02:10,114 - aiogram.event - INFO - Update id=38993153 is handled. Duration 89 ms by bot id=7201271134
+2025-06-19 19:02:15,644 - aiogram.event - INFO - Update id=38993154 is handled. Duration 97 ms by bot id=7201271134
+2025-06-19 19:02:52,023 - aiogram.event - INFO - Update id=38993155 is handled. Duration 93 ms by bot id=7201271134
+2025-06-19 19:02:54,161 - aiogram.event - INFO - Update id=38993156 is handled. Duration 89 ms by bot id=7201271134
+2025-06-19 19:02:55,732 - aiogram.event - INFO - Update id=38993157 is handled. Duration 198 ms by bot id=7201271134
+2025-06-19 19:03:31,781 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-19 19:03:32,038 - __main__ - INFO - Bot stopped
+2025-06-19 19:03:32,038 - aiogram.dispatcher - INFO - Polling stopped for bot @TestClubOK_bot id=7201271134 - '2TestBotClubOK'
+2025-06-19 19:03:33,867 - __main__ - INFO - Starting bot...
+2025-06-19 19:03:33,867 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 19:03:34,070 - aiogram.dispatcher - INFO - Run polling for bot @TestClubOK_bot id=7201271134 - '2TestBotClubOK'
+2025-06-19 19:03:39,134 - aiogram.event - INFO - Update id=38993158 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:03:49,682 - aiogram.event - INFO - Update id=38993159 is handled. Duration 269 ms by bot id=7201271134
+2025-06-19 19:04:10,794 - aiogram.event - INFO - Update id=38993160 is handled. Duration 118 ms by bot id=7201271134
+2025-06-19 19:06:29,819 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-19 19:06:30,075 - __main__ - INFO - Bot stopped
+2025-06-19 19:06:30,075 - aiogram.dispatcher - INFO - Polling stopped for bot @TestClubOK_bot id=7201271134 - '2TestBotClubOK'
+2025-06-19 19:06:31,947 - __main__ - INFO - Starting bot...
+2025-06-19 19:06:31,947 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 19:06:32,153 - aiogram.dispatcher - INFO - Run polling for bot @TestClubOK_bot id=7201271134 - '2TestBotClubOK'
+2025-06-19 19:06:34,417 - aiogram.event - INFO - Update id=38993161 is handled. Duration 234 ms by bot id=7201271134
+2025-06-19 19:06:36,629 - aiogram.event - INFO - Update id=38993162 is handled. Duration 94 ms by bot id=7201271134
+2025-06-19 19:06:58,250 - aiogram.event - INFO - Update id=38993163 is handled. Duration 117 ms by bot id=7201271134
+2025-06-19 19:08:15,656 - aiogram.event - INFO - Update id=38993164 is handled. Duration 95 ms by bot id=7201271134
+2025-06-19 19:08:20,781 - aiogram.event - INFO - Update id=38993165 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:08:28,732 - aiogram.event - INFO - Update id=38993166 is handled. Duration 95 ms by bot id=7201271134
+2025-06-19 19:08:40,988 - aiogram.event - INFO - Update id=38993167 is handled. Duration 90 ms by bot id=7201271134
+2025-06-19 19:08:54,833 - aiogram.event - INFO - Update id=38993168 is handled. Duration 229 ms by bot id=7201271134
+2025-06-19 19:09:01,235 - aiogram.event - INFO - Update id=38993169 is handled. Duration 91 ms by bot id=7201271134
+2025-06-19 19:09:23,839 - aiogram.event - INFO - Update id=38993170 is handled. Duration 179 ms by bot id=7201271134
+2025-06-19 19:09:28,783 - aiogram.event - INFO - Update id=38993171 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:09:51,159 - aiogram.event - INFO - Update id=38993172 is handled. Duration 241 ms by bot id=7201271134
+2025-06-19 19:09:59,174 - aiogram.event - INFO - Update id=38993173 is handled. Duration 103 ms by bot id=7201271134
+2025-06-19 19:10:01,716 - aiogram.event - INFO - Update id=38993174 is handled. Duration 254 ms by bot id=7201271134
+2025-06-19 19:10:16,655 - aiogram.event - INFO - Update id=38993175 is handled. Duration 333 ms by bot id=7201271134
+2025-06-19 19:12:03,183 - aiogram.event - INFO - Update id=38993176 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:12:03,970 - aiogram.event - INFO - Update id=38993177 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:12:08,360 - aiogram.event - INFO - Update id=38993178 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:12:09,310 - aiogram.event - INFO - Update id=38993179 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:12:09,610 - aiogram.event - INFO - Update id=38993180 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:12:09,808 - aiogram.event - INFO - Update id=38993181 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:12:10,000 - aiogram.event - INFO - Update id=38993182 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:12:10,185 - aiogram.event - INFO - Update id=38993183 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:12:10,382 - aiogram.event - INFO - Update id=38993184 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:12:16,453 - aiogram.event - INFO - Update id=38993185 is handled. Duration 150 ms by bot id=7201271134
+2025-06-19 19:12:21,382 - aiogram.event - INFO - Update id=38993186 is handled. Duration 118 ms by bot id=7201271134
+2025-06-19 19:12:43,737 - aiogram.event - INFO - Update id=38993187 is handled. Duration 187 ms by bot id=7201271134
+2025-06-19 19:12:46,622 - aiogram.event - INFO - Update id=38993188 is handled. Duration 88 ms by bot id=7201271134
+2025-06-19 19:13:32,534 - aiogram.event - INFO - Update id=38993189 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:13:51,826 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-19 19:13:52,088 - __main__ - INFO - Bot stopped
+2025-06-19 19:13:52,088 - aiogram.dispatcher - INFO - Polling stopped for bot @TestClubOK_bot id=7201271134 - '2TestBotClubOK'
+2025-06-19 19:13:53,939 - __main__ - INFO - Starting bot...
+2025-06-19 19:13:53,939 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 19:13:54,132 - aiogram.dispatcher - INFO - Run polling for bot @TestClubOK_bot id=7201271134 - '2TestBotClubOK'
+2025-06-19 19:13:56,138 - aiogram.event - INFO - Update id=38993190 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:13:57,303 - aiogram.event - INFO - Update id=38993191 is handled. Duration 238 ms by bot id=7201271134
+2025-06-19 19:13:58,633 - aiogram.event - INFO - Update id=38993192 is handled. Duration 104 ms by bot id=7201271134
+2025-06-19 19:13:59,616 - aiogram.event - INFO - Update id=38993193 is handled. Duration 83 ms by bot id=7201271134
+2025-06-19 19:14:01,408 - aiogram.event - INFO - Update id=38993194 is handled. Duration 81 ms by bot id=7201271134
+2025-06-19 19:14:16,031 - aiogram.event - INFO - Update id=38993195 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:14:18,075 - aiogram.event - INFO - Update id=38993196 is handled. Duration 107 ms by bot id=7201271134
+2025-06-19 19:14:19,357 - aiogram.event - INFO - Update id=38993197 is handled. Duration 98 ms by bot id=7201271134
+2025-06-19 19:14:41,562 - aiogram.event - INFO - Update id=38993198 is handled. Duration 107 ms by bot id=7201271134
+2025-06-19 19:14:43,424 - aiogram.event - INFO - Update id=38993199 is handled. Duration 84 ms by bot id=7201271134
+2025-06-19 19:14:50,275 - aiogram.event - INFO - Update id=38993200 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:14:51,604 - aiogram.event - INFO - Update id=38993201 is handled. Duration 107 ms by bot id=7201271134
+2025-06-19 19:14:55,060 - aiogram.event - INFO - Update id=38993202 is handled. Duration 128 ms by bot id=7201271134
+2025-06-19 19:14:56,740 - aiogram.event - INFO - Update id=38993203 is handled. Duration 87 ms by bot id=7201271134
+2025-06-19 19:15:10,638 - aiogram.event - INFO - Update id=38993204 is handled. Duration 95 ms by bot id=7201271134
+2025-06-19 19:15:14,997 - aiogram.event - INFO - Update id=38993205 is handled. Duration 158 ms by bot id=7201271134
+2025-06-19 19:15:18,254 - aiogram.event - INFO - Update id=38993206 is handled. Duration 85 ms by bot id=7201271134
+2025-06-19 19:15:27,995 - aiogram.event - INFO - Update id=38993207 is handled. Duration 176 ms by bot id=7201271134
+2025-06-19 19:15:32,930 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-19 19:15:33,188 - __main__ - INFO - Bot stopped
+2025-06-19 19:15:33,189 - aiogram.dispatcher - INFO - Polling stopped for bot @TestClubOK_bot id=7201271134 - '2TestBotClubOK'
+2025-06-19 19:15:35,560 - __main__ - INFO - Starting bot...
+2025-06-19 19:15:35,561 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 19:15:35,759 - aiogram.dispatcher - INFO - Run polling for bot @TestClubOK_bot id=7201271134 - '2TestBotClubOK'
+2025-06-19 19:15:41,466 - aiogram.event - INFO - Update id=38993208 is handled. Duration 342 ms by bot id=7201271134
+2025-06-19 19:15:42,688 - aiogram.event - INFO - Update id=38993209 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:15:45,628 - aiogram.event - INFO - Update id=38993210 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:15:59,260 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-19 19:15:59,522 - __main__ - INFO - Bot stopped
+2025-06-19 19:15:59,522 - aiogram.dispatcher - INFO - Polling stopped for bot @TestClubOK_bot id=7201271134 - '2TestBotClubOK'
+2025-06-19 19:16:01,366 - __main__ - INFO - Starting bot...
+2025-06-19 19:16:01,366 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 19:16:01,569 - aiogram.dispatcher - INFO - Run polling for bot @TestClubOK_bot id=7201271134 - '2TestBotClubOK'
+2025-06-19 19:16:02,312 - aiogram.event - INFO - Update id=38993211 is handled. Duration 321 ms by bot id=7201271134
+2025-06-19 19:16:04,827 - aiogram.event - INFO - Update id=38993212 is not handled. Duration 1 ms by bot id=7201271134
+2025-06-19 19:16:15,786 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-19 19:16:16,042 - __main__ - INFO - Bot stopped
+2025-06-19 19:16:16,042 - aiogram.dispatcher - INFO - Polling stopped for bot @TestClubOK_bot id=7201271134 - '2TestBotClubOK'
+2025-06-19 19:16:17,889 - __main__ - INFO - Starting bot...
+2025-06-19 19:16:17,889 - aiogram.dispatcher - INFO - Start polling
+2025-06-19 19:16:18,080 - aiogram.dispatcher - INFO - Run polling for bot @TestClubOK_bot id=7201271134 - '2TestBotClubOK'
+2025-06-19 19:16:25,377 - aiogram.event - INFO - Update id=38993213 is handled. Duration 416 ms by bot id=7201271134
+2025-06-19 19:16:31,958 - aiogram.event - INFO - Update id=38993214 is handled. Duration 100 ms by bot id=7201271134
+2025-06-19 19:16:40,486 - aiogram.event - INFO - Update id=38993215 is handled. Duration 103 ms by bot id=7201271134
+2025-06-19 19:16:44,842 - aiogram.event - INFO - Update id=38993216 is handled. Duration 111 ms by bot id=7201271134
+2025-06-19 19:16:46,229 - aiogram.event - INFO - Update id=38993217 is handled. Duration 162 ms by bot id=7201271134
+2025-06-19 19:16:53,496 - aiogram.event - INFO - Update id=38993218 is handled. Duration 171 ms by bot id=7201271134
+2025-06-19 19:22:24,256 - aiogram.event - INFO - Update id=38993219 is handled. Duration 88 ms by bot id=7201271134
+2025-06-19 19:22:31,854 - aiogram.event - INFO - Update id=38993220 is handled. Duration 92 ms by bot id=7201271134
+2025-06-19 19:22:39,779 - aiogram.event - INFO - Update id=38993221 is handled. Duration 133 ms by bot id=7201271134
+2025-06-19 19:22:42,883 - aiogram.event - INFO - Update id=38993222 is handled. Duration 148 ms by bot id=7201271134
+2025-06-19 20:39:17,339 - aiogram.event - INFO - Update id=38993223 is handled. Duration 239 ms by bot id=7201271134
+2025-06-19 20:39:18,642 - aiogram.event - INFO - Update id=38993224 is handled. Duration 99 ms by bot id=7201271134
+2025-06-19 20:39:19,638 - aiogram.event - INFO - Update id=38993225 is handled. Duration 123 ms by bot id=7201271134
+2025-06-19 20:39:21,516 - aiogram.event - INFO - Update id=38993226 is handled. Duration 171 ms by bot id=7201271134
+2025-06-19 20:39:22,619 - aiogram.event - INFO - Update id=38993227 is handled. Duration 86 ms by bot id=7201271134
+2025-06-19 20:39:25,370 - aiogram.event - INFO - Update id=38993228 is handled. Duration 91 ms by bot id=7201271134
+2025-06-19 21:26:24,134 - aiogram.event - INFO - Update id=38993229 is handled. Duration 233 ms by bot id=7201271134
+2025-06-19 21:26:27,567 - aiogram.event - INFO - Update id=38993230 is handled. Duration 103 ms by bot id=7201271134
+2025-06-19 21:26:28,573 - aiogram.event - INFO - Update id=38993231 is handled. Duration 85 ms by bot id=7201271134
+2025-06-19 21:26:32,524 - aiogram.event - INFO - Update id=38993232 is handled. Duration 84 ms by bot id=7201271134
+2025-06-19 21:26:34,335 - aiogram.event - INFO - Update id=38993233 is handled. Duration 109 ms by bot id=7201271134
+2025-06-19 21:26:36,638 - aiogram.event - INFO - Update id=38993234 is handled. Duration 120 ms by bot id=7201271134
+2025-06-19 23:48:28,011 - aiogram.event - INFO - Update id=38993235 is handled. Duration 205 ms by bot id=7201271134
+2025-06-19 23:48:39,045 - aiogram.event - INFO - Update id=38993236 is handled. Duration 124 ms by bot id=7201271134
+2025-06-19 23:48:45,690 - aiogram.event - INFO - Update id=38993237 is handled. Duration 102 ms by bot id=7201271134
+2025-06-19 23:48:51,424 - aiogram.event - INFO - Update id=38993238 is handled. Duration 497 ms by bot id=7201271134
+2025-06-19 23:49:09,565 - aiogram.event - INFO - Update id=38993239 is handled. Duration 234 ms by bot id=7201271134
+2025-06-19 23:49:16,932 - aiogram.event - INFO - Update id=38993240 is handled. Duration 89 ms by bot id=7201271134
+2025-06-19 23:49:18,399 - aiogram.event - INFO - Update id=38993241 is handled. Duration 262 ms by bot id=7201271134
+2025-06-19 23:49:27,032 - aiogram.event - INFO - Update id=38993242 is handled. Duration 257 ms by bot id=7201271134
+2025-06-20 09:30:24,414 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-20 09:30:24,670 - __main__ - INFO - Bot stopped
+2025-06-20 09:30:24,671 - aiogram.dispatcher - INFO - Polling stopped for bot @TestClubOK_bot id=7201271134 - '2TestBotClubOK'
